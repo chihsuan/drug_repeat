@@ -1,5 +1,7 @@
 hyper-drug-repeat
 =======
+## Usage
+
 ### step 1 
 get hyper drug data from database (`get_hyper_data.sql`)
 ### step 2 
